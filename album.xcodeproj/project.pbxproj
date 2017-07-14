@@ -7,19 +7,23 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E010DD4F1F1678B5001137A0 /* Reflection.txt in Resources */ = {isa = PBXBuildFile; fileRef = E010DD4E1F1678B5001137A0 /* Reflection.txt */; };
+		E039882A1F12622E009BB27B /* AlbumListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E03988291F12622E009BB27B /* AlbumListViewController.swift */; };
 		E08C7BBC1EFFD9C3002654B9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E08C7BBB1EFFD9C3002654B9 /* AppDelegate.swift */; };
 		E08C7BBE1EFFD9C3002654B9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E08C7BBD1EFFD9C3002654B9 /* ViewController.swift */; };
 		E08C7BC11EFFD9C3002654B9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E08C7BBF1EFFD9C3002654B9 /* Main.storyboard */; };
 		E08C7BC31EFFD9C3002654B9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E08C7BC21EFFD9C3002654B9 /* Assets.xcassets */; };
 		E08C7BC61EFFD9C3002654B9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E08C7BC41EFFD9C3002654B9 /* LaunchScreen.storyboard */; };
 		E08C7BDA1F0009E4002654B9 /* SongListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E08C7BD91F0009E4002654B9 /* SongListViewController.swift */; };
-		E08C7BDC1F000A0D002654B9 /* CollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E08C7BDB1F000A0D002654B9 /* CollectionViewController.swift */; };
-		E08C7BDE1F000F9D002654B9 /* Reflection.txt in Resources */ = {isa = PBXBuildFile; fileRef = E08C7BDD1F000F9D002654B9 /* Reflection.txt */; };
-		E08C7BE01F000FAB002654B9 /* Sense.txt in Resources */ = {isa = PBXBuildFile; fileRef = E08C7BDF1F000FAA002654B9 /* Sense.txt */; };
-		E0E9CF641F0145AE00E425CE /* ヒカリノアトリエ.txt in Resources */ = {isa = PBXBuildFile; fileRef = E0E9CF631F0145AE00E425CE /* ヒカリノアトリエ.txt */; };
+		E0A32DD31F164B2300E98B00 /* CHViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0A32DD21F164B2300E98B00 /* CHViewController.swift */; };
+		E0A32DDD1F16641E00E98B00 /* Sense.txt in Resources */ = {isa = PBXBuildFile; fileRef = E0A32DDC1F16641E00E98B00 /* Sense.txt */; };
+		E0AEB5E71F179D5A00179D08 /* ヒカリノアトリエ.txt in Resources */ = {isa = PBXBuildFile; fileRef = E0AEB5E61F179D5A00179D08 /* ヒカリノアトリエ.txt */; };
+		E0F13E431F18E7A10067E5BA /* POP.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E0F13E421F18E7A10067E5BA /* POP.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E010DD4E1F1678B5001137A0 /* Reflection.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = Reflection.txt; path = ../../../../Downloads/Reflection.txt; sourceTree = "<group>"; };
+		E03988291F12622E009BB27B /* AlbumListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlbumListViewController.swift; sourceTree = "<group>"; };
 		E08C7BB81EFFD9C3002654B9 /* album.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = album.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E08C7BBB1EFFD9C3002654B9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E08C7BBD1EFFD9C3002654B9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -28,10 +32,10 @@
 		E08C7BC51EFFD9C3002654B9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E08C7BC71EFFD9C3002654B9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E08C7BD91F0009E4002654B9 /* SongListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SongListViewController.swift; sourceTree = "<group>"; };
-		E08C7BDB1F000A0D002654B9 /* CollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewController.swift; sourceTree = "<group>"; };
-		E08C7BDD1F000F9D002654B9 /* Reflection.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = Reflection.txt; path = ../../../../Downloads/Reflection.txt; sourceTree = "<group>"; };
-		E08C7BDF1F000FAA002654B9 /* Sense.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = Sense.txt; path = ../../../../Downloads/Sense.txt; sourceTree = "<group>"; };
-		E0E9CF631F0145AE00E425CE /* ヒカリノアトリエ.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "ヒカリノアトリエ.txt"; path = "../../../../Downloads/ヒカリノアトリエ.txt"; sourceTree = "<group>"; };
+		E0A32DD21F164B2300E98B00 /* CHViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CHViewController.swift; sourceTree = "<group>"; };
+		E0A32DDC1F16641E00E98B00 /* Sense.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = Sense.txt; path = ../../../../Downloads/Sense.txt; sourceTree = "<group>"; };
+		E0AEB5E61F179D5A00179D08 /* ヒカリノアトリエ.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "ヒカリノアトリエ.txt"; path = "../../../../Downloads/ヒカリノアトリエ.txt"; sourceTree = "<group>"; };
+		E0F13E421F18E7A10067E5BA /* POP.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = POP.mp3; path = ../../../../Downloads/POP.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,11 +72,13 @@
 				E08C7BBD1EFFD9C3002654B9 /* ViewController.swift */,
 				E08C7BBF1EFFD9C3002654B9 /* Main.storyboard */,
 				E08C7BD91F0009E4002654B9 /* SongListViewController.swift */,
-				E08C7BDB1F000A0D002654B9 /* CollectionViewController.swift */,
+				E0A32DD21F164B2300E98B00 /* CHViewController.swift */,
+				E03988291F12622E009BB27B /* AlbumListViewController.swift */,
 				E08C7BC21EFFD9C3002654B9 /* Assets.xcassets */,
-				E08C7BDD1F000F9D002654B9 /* Reflection.txt */,
-				E0E9CF631F0145AE00E425CE /* ヒカリノアトリエ.txt */,
-				E08C7BDF1F000FAA002654B9 /* Sense.txt */,
+				E0A32DDC1F16641E00E98B00 /* Sense.txt */,
+				E010DD4E1F1678B5001137A0 /* Reflection.txt */,
+				E0F13E421F18E7A10067E5BA /* POP.mp3 */,
+				E0AEB5E61F179D5A00179D08 /* ヒカリノアトリエ.txt */,
 				E08C7BC41EFFD9C3002654B9 /* LaunchScreen.storyboard */,
 				E08C7BC71EFFD9C3002654B9 /* Info.plist */,
 			);
@@ -137,11 +143,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E08C7BE01F000FAB002654B9 /* Sense.txt in Resources */,
-				E0E9CF641F0145AE00E425CE /* ヒカリノアトリエ.txt in Resources */,
+				E0AEB5E71F179D5A00179D08 /* ヒカリノアトリエ.txt in Resources */,
+				E0F13E431F18E7A10067E5BA /* POP.mp3 in Resources */,
 				E08C7BC61EFFD9C3002654B9 /* LaunchScreen.storyboard in Resources */,
+				E0A32DDD1F16641E00E98B00 /* Sense.txt in Resources */,
+				E010DD4F1F1678B5001137A0 /* Reflection.txt in Resources */,
 				E08C7BC31EFFD9C3002654B9 /* Assets.xcassets in Resources */,
-				E08C7BDE1F000F9D002654B9 /* Reflection.txt in Resources */,
 				E08C7BC11EFFD9C3002654B9 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -153,10 +160,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E08C7BDC1F000A0D002654B9 /* CollectionViewController.swift in Sources */,
 				E08C7BBE1EFFD9C3002654B9 /* ViewController.swift in Sources */,
 				E08C7BBC1EFFD9C3002654B9 /* AppDelegate.swift in Sources */,
+				E0A32DD31F164B2300E98B00 /* CHViewController.swift in Sources */,
 				E08C7BDA1F0009E4002654B9 /* SongListViewController.swift in Sources */,
+				E039882A1F12622E009BB27B /* AlbumListViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
